@@ -34,8 +34,8 @@ body {
   font-family: Amaranth, sans-serif;
   color: rgb(255,0,0);
   font-size: 22px;
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 40px;
+  padding-left: 40px;
 }
 
 .container.left .down:hover {
@@ -43,8 +43,8 @@ body {
   font-family: Amaranth, sans-serif;
   color: rgb(0,0,0);
   font-size: 22px;
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 40px;
+  padding-left: 40px;
 }
 
 .container.left .ic {
@@ -57,7 +57,7 @@ body {
 }
 
 .container.left {
-  margin-top: 107px;
+  margin-top: 98px;
 }
 
 .coding {
