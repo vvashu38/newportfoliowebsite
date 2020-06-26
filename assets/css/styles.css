@@ -26,21 +26,25 @@ body {
 .container.left .up {
   text-align: center;
   font-family: Amaranth, sans-serif;
-  color: rgb(0,0,0);
+  color: rgb(248,0,0);
 }
 
 .container.left .down {
   text-align: center;
   font-family: Amaranth, sans-serif;
   color: rgb(255,0,0);
-  font-size: 29px;
+  font-size: 22px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .container.left .down:hover {
   text-align: center;
   font-family: Amaranth, sans-serif;
-  color: rgb(8,7,7);
-  font-size: 29px;
+  color: rgb(0,0,0);
+  font-size: 22px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .container.left .ic {
@@ -76,5 +80,11 @@ body {
 
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
   margin-left: -58px;
+}
+
+.enwe {
+  font-size: 25px;
+  text-align: center;
+  color: rgb(143,2,255);
 }
 
