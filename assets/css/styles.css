@@ -1,0 +1,58 @@
+.fa.fa-signal {
+  font-size: 24px;
+  line-height: 0;
+}
+
+.fas.fa-inbox {
+  font-size: 18px;
+  line-height: 0;
+}
+
+.navbar-dark .navbar-nav .nav-item.a .nav-link {
+  font-size: 15px;
+  padding: 5px;
+  font-family: Allerta, sans-serif;
+}
+
+body, html {
+  cursor: url(http://bringerp.free.fr/Files/RotMG/cursor.gif),pointer;
+  height: 80%;
+}
+
+body {
+  padding-top: 73px;
+}
+
+.container.left .up {
+  text-align: center;
+  font-family: Amaranth, sans-serif;
+  color: rgb(0,0,0);
+}
+
+.container.left .down {
+  text-align: center;
+  font-family: Amaranth, sans-serif;
+  color: rgb(111,0,0);
+  font-size: 29px;
+}
+
+.container.left .down:hover {
+  text-align: center;
+  font-family: Amaranth, sans-serif;
+  color: rgb(8,7,7);
+  font-size: 29px;
+}
+
+.container.left .ic {
+  text-align: center;
+}
+
+.fa.fa-fire {
+  font-size: 27px;
+  color: rgb(0,0,0);
+}
+
+.container.left {
+  margin-top: 162px;
+}
+
