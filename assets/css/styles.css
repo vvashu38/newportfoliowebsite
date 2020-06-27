@@ -32,7 +32,7 @@ body {
 .container.left .down {
   text-align: center;
   font-family: Amaranth, sans-serif;
-  color: rgb(255,0,0);
+  color: rgb(0,41,255);
   font-size: 22px;
   padding-right: 40px;
   padding-left: 40px;
@@ -56,26 +56,18 @@ body {
   color: rgb(0,0,0);
 }
 
-.container.left {
-  margin-top: 98px;
-}
-
 .coding {
   text-align: center;
 }
 
 .container .rounded.img-fluid {
   border: groove;
-  width: 290px;
-  margin-top: 11px;
-  margin-left: 82px;
+  width: 238px;
   height: 516px;
 }
 
-.upper .right .img-fluid {
+.upper .right {
   text-align: center;
-  width: 70%;
-  height: 70%;
 }
 
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
