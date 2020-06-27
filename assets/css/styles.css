@@ -81,3 +81,42 @@ body {
   margin-top: -31px;
 }
 
+.row.skill {
+  margin-top: 8px;
+  color: rgb(0,0,0);
+  opacity: 0.86;
+  background-color: #000!important;
+  color: white;
+  padding: 12px;
+}
+
+.myskill {
+  text-align: center;
+}
+
+.html {
+  text-align: center;
+}
+
+.row.no-gutters.skilllower {
+  margin: 69px;
+}
+
+.display-4.text-body.html {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.skilllower .img-fluid {
+  padding: 0px;
+  padding-right: 0px;
+  font-size: 13px;
+  opacity: 0.84;
+  filter: blur(0px) brightness(94%);
+  text-align: center;
+}
+
+.c {
+  text-align: center;
+}
+
